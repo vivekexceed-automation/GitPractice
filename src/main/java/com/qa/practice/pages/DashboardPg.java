@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class DashboardPg {
 	
 	@Test
-	public void dashboardPg() {
+	public void dashboardPgTest() {
 		System.out.println("Checking Login Page");
 	}
 }
