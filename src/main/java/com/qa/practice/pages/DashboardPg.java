@@ -13,4 +13,10 @@ public class DashboardPg {
 	public void TitleTest() {
 		System.out.println("Checking Title");
 	}
+	
+	
+	@Test(priority = Integer.MAX_VALUE)
+	public void urlTest() {
+		System.out.println("Checking Url");
+	}
 }
