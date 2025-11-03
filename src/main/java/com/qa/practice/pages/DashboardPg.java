@@ -8,4 +8,9 @@ public class DashboardPg {
 	public void dashboardPgTest() {
 		System.out.println("Checking Login Page");
 	}
+	
+	@Test
+	public void TitleTest() {
+		System.out.println("Checking Title");
+	}
 }
