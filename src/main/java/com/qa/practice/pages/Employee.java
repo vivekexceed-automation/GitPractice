@@ -6,7 +6,6 @@ public class Employee {
 	
 	String empEclipseTxt = "Vivek Emp"; 
 	
-
 	public void empEclipse() {
 		System.out.println("Hello Emp Eclipse");
 	}
